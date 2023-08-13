@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @notFaad Flutter and rust dev.
+- 👋 Hi, I’m @notFaad Smelly Full Stack developer.
 
 <!---
 notFaad/notFaad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
